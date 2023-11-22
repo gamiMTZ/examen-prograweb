@@ -17,6 +17,7 @@ html{
 }
 
 .seccion1{
+    /*margin-top: 10rem;*/
     max-width:60%;
 }
 
@@ -41,7 +42,7 @@ html{
     padding: 2rem 0rem;
     background-color: white;
     border-radius: 1rem;
-    box-shadow: -2px 2px 50px 5px rgba(0,0,0,0.75);
+    box-shadow: 1px 0px 14px 0px rgba(0,0,0,0.75);
     text-align: center;
 }
 
