@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: #f1f3f6;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.contenedorPrincipal {
+    display: flex;
+}
+
+.seccion1, .contenedorFormulario{
+    margin-top: 15rem;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.seccion1{
+    max-width:60%;
+}
+
+.contenedorFormulario{
+    margin-top: 10rem;
+    width: 40%;
+}
+
+
+.seccion1 h1{
+    font-size: 3rem;
+    color: #0366FF;
+}
+
+.seccion1 p{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.formulario{
+    padding: 2rem 0rem;
+    background-color: white;
+    border-radius: 1rem;
+        box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
+-webkit-box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
+    text-align: center;
+}
+
+.form1{
+    padding-bottom: 1rem;
+}
+
+.form1 fieldset{
+    border: none;
+}
+
+.form1 fieldset input{
+    width: 90%;
+    height: 100%;
+    font-size: 1rem;
+}
+
+.form1 p a{
+    padding: 1rem;
+    text-decoration: none;
+}
+
+#passRecover{
+    padding: 1rem;
+}
+
+.input {
+    padding: 0.5rem;
+    height: 2rem;
+}
+
+.form2{
+    padding-top: 1rem;
+}
+
+#loginBoton input{
+    background-color: #0366FF;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    height:2.5rem;
+    border-radius: 5px;
+    border: none;
+}
+
+#nuevaCuentaBoton{
+    width:80%;
+    height:2.5rem;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: none;
+}
