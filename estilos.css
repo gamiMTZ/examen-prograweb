@@ -41,9 +41,7 @@ html{
     padding: 2rem 0rem;
     background-color: white;
     border-radius: 1rem;
-        box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
--webkit-box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
--moz-box-shadow: -4px 8px 46px 12px rgba(0,0,0,0.75);
+    box-shadow: -2px 2px 50px 5px rgba(0,0,0,0.75);
     text-align: center;
 }
 
@@ -73,6 +71,7 @@ html{
 .input {
     padding: 0.5rem;
     height: 2rem;
+    border-color: #e9e9ea;
 }
 
 .form2{
